@@ -16,6 +16,25 @@
 
 - ⚡ Fun fact **I think I'm humble and a little introverted**
 
+<h3>Hobby</h3>
+<p align="left">
+ - Coding <br>
+ - playing the guitar <br>
+ - listening to music
+<p/>
+
+<h3>Education</h3>
+<p align="left">
+ 1. Sma Negeri 1 Tanjung Lubuk | MIPA | Oki, 2017-2020<br>
+   - representatives of two osis <br>
+   - drum band personnel <br>
+  <br>
+ 2. Universitas Multi Data Palembang | Sistem informasi | Palembang <br>
+   - himsi administrator <br>
+   - following the mardeka campus program, frontend javascript course | Binar batch 3, 2022 <br>
+   - assistant lecturer of Web Programming I | Tehnik informatika | semester 3, september-2022 - januari 2023
+<p/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/frans-bachtiar-ab31a6246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/frans-bachtiar-ab31a6246" height="30" width="40" /></a>
