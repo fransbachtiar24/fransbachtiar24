@@ -16,20 +16,20 @@
 
 - ⚡ Fun fact **I think I'm humble and a little introverted**
 
-<h3>Hobby</h3>
+<h3>Hobby 👏</h3>
 <p align="left">
- - Coding <br>
- - playing the guitar <br>
- - listening to music
+ - Coding 💻<br>
+ - playing the guitar 🎸<br>
+ - listening to music 🎧
 <p/>
 
-<h3>Education</h3>
+<h3>Education 🏫</h3>
 <p align="left">
  1. Sma Negeri 1 Tanjung Lubuk | MIPA | Oki, 2017-2020<br>
    - representatives of two osis <br>
    - drum band personnel <br>
   <br>
- 2. Universitas Multi Data Palembang | Sistem informasi | Palembang <br>
+ 2. Universitas Multi Data Palembang | Sistem informasi | Palembang, Active <br>
    - himsi administrator <br>
    - following the mardeka campus program, frontend javascript course | Binar batch 3, 2022 <br>
    - assistant lecturer of Web Programming I | Tehnik informatika | semester 3, september-2022 - januari 2023
