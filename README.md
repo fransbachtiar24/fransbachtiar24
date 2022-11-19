@@ -63,5 +63,5 @@ Software    | ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransbachtiar24&show_icons=true&locale=en&layout=compact" alt="fransbachtiar24" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
 
