@@ -61,9 +61,7 @@ Software    | ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fransbachtiar24" alt="fransbachtiar24" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransbachtiar24&show_icons=true&locale=en&layout=compact" alt="fransbachtiar24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
 
