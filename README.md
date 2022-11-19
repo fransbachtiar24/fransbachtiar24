@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
 
+
 - 🔭 I’m currently working on [Booking Tiket Pesawat](https://github.com/fransbachtiar24/FEJS-my-team-booking-tiket-)
 
 - 🌱 I’m currently learning **React js, express js, Laravel, Rest Api, Materi, javascriptal-ui**
@@ -58,8 +59,11 @@ Software    | ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&
 | Database        | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>                                                                                                                                                                              |
 | Server        | ![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) </a>                                                                                                                                                                              |
 
+## &#x1f4c8; GitHub Stats
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fransbachtiar24" alt="fransbachtiar24" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransbachtiar24&show_icons=true&locale=en&layout=compact" alt="fransbachtiar24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fransbachtiar24&" alt="fransbachtiar24" /></p>
