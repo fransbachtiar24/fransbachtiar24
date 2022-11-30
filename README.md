@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/fransbachtiar24/file-materi-assisten-dosen-/blob/master/images/huge.png)
+
 <h1 align="center">Hi 👋, I'm Frans Bachtiar</h1>
 <h3 align="center">The most important thing is not what we know but what things we are willing to learn</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1100/1*IRGHmiGsa16stedQvIaZfw.gif">
