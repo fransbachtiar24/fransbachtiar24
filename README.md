@@ -59,9 +59,7 @@ Clouds    | ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&st
 | Database        | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                                                                            |
 | Server        | ![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) </a>                                                                                                                                                                              |
 
-## &#x1f4c8; GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransbachtiar24&show_icons=true&locale=en&layout=compact" alt="fransbachtiar24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fransbachtiar24&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fransbachtiar24&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fransbachtiar24&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
