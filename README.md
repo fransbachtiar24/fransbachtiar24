@@ -1,3 +1,46 @@
+![MasterHead](https://github.com/fransbachtiar24/file-materi-assisten-dosen-/blob/master/images/huge.png)
+<h1 align="center">Hi ðŸ‘‹, I'm Frans Bachtiar</h1>
+<h3 align="center">The most important thing is not what we know but what things we are willing to learn</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1100/1*IRGHmiGsa16stedQvIaZfw.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
+
+- 🔭 I’m currently working on [Booking Tiket Pesawat](https://github.com/fransbachtiar24/FEJS-my-team-booking-tiket-)
+
+- 🌱 I’m currently learning **React js, express js, Laravel, Rest Api, Materi, javascriptal-ui**
+
+- 👨‍💻 All of my projects are available at [https://designrann.000webhostapp.com/](https://designrann.000webhostapp.com/)
+
+- 💬 Ask me about **Website**
+
+- 📫 How to reach me **fransbachtiar4@gmail.com**
+
+- ⚡ Fun fact **I think I'm humble and a little introverted**
+
+
+<h2>Hobby 👊</h2>
+<p align="left">
+ - Coding ⌨️<br>
+ - playing the guitar 🎸<br>
+ - listening to music  🎧 
+<p/>
+
+<h2>Education 📚</h2>
+<p align="left">
+ 1. Sma Negeri 1 Tanjung Lubuk | MIPA | Oki, 2017-2020<br>
+   - representatives of two osis <br>
+   - drum band personnel <br>
+  <br>
+ 2. Universitas Multi Data Palembang | Sistem informasi | Palembang, Active <br>
+   - himsi administrator <br>
+   - following the mardeka campus program, frontend javascript course | Binar batch 3, 2022 <br>
+   - assistant lecturer of Web Programming I | Tehnik informatika | semester 3, september-2022 - januari 2023
+<p/>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/frans-bachtiar-ab31a6246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/frans-bachtiar-ab31a6246" height="30" width="40" /></a>
+<a href="https://instagram.com/fransbchtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fransbchtr" height="30" width="40" /></a>
 
 
 
