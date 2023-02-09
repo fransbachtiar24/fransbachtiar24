@@ -36,7 +36,7 @@
    - assistant lecturer of Web Programming I | Tehnik informatika | semester 3, september-2022 - januari 2023 <br>
  <br>
  3. Working 💼 <br>
-   - Working in diskominfo kab banyuasin | web developer
+   - Working in diskominfo kab banyuasin | web developer, active
 <p/>
 
 <h2 align="left">Connect with me:</h2>
