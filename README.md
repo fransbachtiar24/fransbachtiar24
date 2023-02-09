@@ -34,7 +34,8 @@
    - himsi administrator <br>
    - following the mardeka campus program, frontend javascript course | Binar batch 3, 2022 <br>
    - assistant lecturer of Web Programming I | Tehnik informatika | semester 3, september-2022 - januari 2023 <br>
- 3. Working 💼
+ <br>
+ 3. Working 💼 <br>
    - Working in diskominfo kab banyuasin | web developer
 <p/>
 
