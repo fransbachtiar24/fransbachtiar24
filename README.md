@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
  
-- 🔭 I’m currently working on Website Resmi Diskominfo Kab banyuasin | Portal Berita
+- 🔭 I’m currently working on e-buku tamu and e-office | diskominfo kab banyuasin
 - 🌱 I’m currently learning **React js, Tyscript, Node js, rest api**
 
 - 👨‍💻 All of my projects are available at [https://designrann.000webhostapp.com/](https://designrann.000webhostapp.com/) and [https://siterbang.km3ggwp.com/login](https://siterbang.km3ggwp.com/login)
