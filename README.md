@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Helpdesk | diskominfo kab banyuasin
 - 🌱 I’m currently learning **React js, Tyscript, Node js, rest api, socket-io, Grapqhl, laravel Reverb**
 
-- 👨‍💻 All of my projects are available at [https://designrann.000webhostapp.com/](https://designrann.000webhostapp.com/) and [https://siterbang.km3ggwp.com/login](https://siterbang.km3ggwp.com/login)
+- 👨‍💻 All of my projects are available at [Portofolio](https://frans-dusky.vercel.app) and [https://siterbang.km3ggwp.com/login](https://siterbang.km3ggwp.com/login)
 
 - 💬 Ask me about **Website**
 
