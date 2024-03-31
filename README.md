@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
  
 - 🔭 I’m currently working on Helpdesk | diskominfo kab banyuasin
-- 🌱 I’m currently learning **React js, Tyscript, Node js, rest api, socket-io, Grapqhl, laravel Reverb**
+- 🌱 I’m currently learning **React js, Tyscript, Node js, rest api, socket-io, Grapqhl, laravel Reverb and Flutter**
 
 - 👨‍💻 All of my projects are available at [Portofolio](https://frans-dusky.vercel.app) and [Project Kampus Mardeka](https://siterbang.km3ggwp.com/login)
 
