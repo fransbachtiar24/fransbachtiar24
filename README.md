@@ -62,11 +62,8 @@ Clouds    | ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&st
 | Server        | ![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) </a>                                                                                                                                                                              |
 
 # 📊 GitHub Stats:
-<a href="https://github.com/fransbachtiar24/fransbachtiar24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransbachtiar24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug" />
-</a>
+![fransbachtiar24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fransbachtiar24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransbachtiar24&show_icons=true&locale=en" alt="fransbachtiar24" /></p>
 
 
 
