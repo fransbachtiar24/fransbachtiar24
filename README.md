@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fransbachtiar24&label=Profile%20views&color=0e75b6&style=flat" alt="fransbachtiar24" /> </p>
  
 - 🔭 I’m currently working on SIEMAS (sistem evaluasi smart city) | diskominfo kab banyuasin
-- 🌱 I’m currently learning **Tyscript, socket-io, Grapqhl, laravel Reverb**
+- 🌱 I’m currently learning **Grapqhl, cryptograpy sistem **
 
 - 👨‍💻 All of my projects are available at [Portofolio](https://frans-dusky.vercel.app) and [Project Kampus Mardeka](https://siterbang.km3ggwp.com/login)
 
