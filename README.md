@@ -37,7 +37,7 @@
    - assistant lecturer of Web Programming I | Sistem informasi | semester 4, Februari-2024 - Agustust 2024 <br>
  <br>
  3. Working 💼 <br>
-   - Working in diskominfo kab banyuasin | web developer, active
+   - Working in diskominfo kab banyuasin | web developer, 2 years experience
 <p/>
 
 <h2 align="left">Connect with me:</h2>
